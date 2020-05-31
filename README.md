@@ -1,6 +1,6 @@
 # ApplicationForm
-Application form with Blockchain<br>
-ブロックチェーンを用いて補助金申請窓口を作成しました。
+Application form with Blockchain(Ethereum)<br>
+ブロックチェーン(イーサリアム)を用いて補助金申請窓口を作成しました。
 
 ## Important Notice
 This contract can run with Web3 library (which is the Javascript library).<br>
