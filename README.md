@@ -4,7 +4,7 @@ Application form with Blockchain<br>
 
 ## Important Notice
 This contract can run with Web3 library (which is the Javascript library).<br>
-This repository DOES NOT contain Web3, so you should install Web3 with npm.<br>
+This repository __DOES NOT__ contain Web3, so you should install Web3 with npm.<br>
 `sudo npm install web3`<br>
 After installing Web3, confirm the reference of "web3.min.js" in index.html.<br>
 I set this contracｔ for local test network with Ganache.<br>
