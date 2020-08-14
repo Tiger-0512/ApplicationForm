@@ -8,8 +8,9 @@ This repository __DOES NOT__ contain Web3, so you should install Web3 with npm.<
 `sudo npm install web3`<br>
 After installing Web3, confirm the reference of "web3.min.js" in index.html.<br>
 
-I set this contracｔ for local test network with Ganache.<br>
+I set this contract for local test network with Ganache.<br>
 You can change the setting as you like.<br>
+
 
 Japascriptのweb3.jsライブラリを用いることを前提にしています。<br>
 web3はリポジトリ内に含まれていないのでnpm等でインストールしていただく必要があります。<br>
